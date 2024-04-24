@@ -1,0 +1,4 @@
+../Core/AP/AP_Main.c:15:6:sys_init	8	static
+../Core/AP/AP_Main.c:30:5:APMain	64	static
+../Core/AP/AP_Main.c:53:6:modeStateCheck	8	static
+../Core/AP/AP_Main.c:77:6:modeStateRun	16	static
